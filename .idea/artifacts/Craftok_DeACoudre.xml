@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Craftok-DeACoudre">
+    <output-path>$PROJECT_DIR$/out/artifacts/Craftok_DeACoudre</output-path>
+    <root id="archive" name="Craftok-DeACoudre.jar">
+      <element id="module-output" name="de-a-coudre" />
+    </root>
+  </artifact>
+</component>

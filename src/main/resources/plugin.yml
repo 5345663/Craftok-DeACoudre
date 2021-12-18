@@ -1,0 +1,6 @@
+name: Craftok-DeACoudre
+author: Sithey
+version: 2.0
+main: eu.craftok.dac.DMain
+depend:
+  - Craftok-GameAPI

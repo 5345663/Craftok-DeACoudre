@@ -1,0 +1,14 @@
+HOST DAC
+
+Premier co = Host
+
+Pouvoir Configurer:
+Nombre de team (2 a 10)
+Nombre de joueur par teams (1 a 5)
+Spec
+Vie de base (1 a 3)
+Vie max (1 - 10)
+Map
+
+
+
